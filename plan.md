@@ -6,6 +6,14 @@
 - Problem 4
 
 
+# Bellman Ford
+
+# Binary Indexed Tree  (BIT)
+
+# Bsearch
+
+
+
 # Segment Tree
 - [No Luck](https://codeforces.com/gym/103388/problem/N)
 - [Great Heights](https://codeforces.com/gym/104603/problem/G)
@@ -55,5 +63,28 @@
 
 
 
+# Things to have in the notes
+
+- Dinic ?
+
+- Bellman Ford ?
+- BIT ? 
+- Dijkstra !
+- Euler Path !?
+- Euler Tour ?
+- Floyd Warshall ?
+- Gauss ?
+- Gauss bit ?
+- Implicit seg_tree ?
+- Lazy seg_tree ?
+- Kruskal DSU ?
+- LCA ?
+- Ordered_set !
+- Tree Shenanigans ?
+- Python !
+
+# DONE
+
+- Sort with lambda !!
 
 
