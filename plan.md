@@ -65,8 +65,7 @@
 
 # Things to have in the notes
 
-- Dinic ?
-
+- Dinic !!
 - Bellman Ford ?
 - BIT ? 
 - Dijkstra !
@@ -78,7 +77,7 @@
 - Implicit seg_tree ?
 - Lazy seg_tree ?
 - Kruskal DSU ?
-- LCA ?
+- LCA !!
 - Ordered_set !
 - Tree Shenanigans ?
 - Python !
